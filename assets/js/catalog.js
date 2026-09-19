@@ -1,0 +1,7 @@
+window.REI_MINAS_PRODUCTS = [
+  {id:'iogurte-110',name:'Iogurte Rei Minas 110 g',category:'Iogurte',size:'110 g',image:'assets/img/iogurte-110g.png',flavors:['Pêssego','Morango','Uva','Salada de frutas'],description:'Iogurte parcialmente desnatado em porção individual, prático para varejo, lanchonetes e consumo diário.'},
+  {id:'iogurte-140',name:'Iogurte Rei Minas 140 g',category:'Iogurte',size:'140 g',image:'assets/img/iogurte-140g.png',flavors:['Pêssego','Ameixa','Abacaxi','Morango','Salada de frutas'],description:'Linha individual com variedade de sabores para pequenos comércios, padarias, mercados e pontos de conveniência.'},
+  {id:'iogurte-500',name:'Iogurte Rei Minas 500 g',category:'Iogurte',size:'500 g',image:'assets/img/iogurte-500g.png',flavors:['Leite condensado','Morango'],description:'Embalagem familiar para o dia a dia, com opções tradicionais da linha Rei Minas.'},
+  {id:'iogurte-1000',name:'Iogurte Rei Minas 1 kg',category:'Iogurte',size:'1 kg',image:'assets/img/iogurte-1000g.png',flavors:['Ameixa','Morango'],description:'Formato maior para famílias e clientes que buscam mais rendimento por embalagem.'},
+  {id:'manteiga-200',name:'Manteiga Rei Minas com sal 200 g',category:'Manteiga',size:'200 g',image:'assets/img/manteiga-200g.png',flavors:['Com sal'],description:'Manteiga Rei Minas em pote de 200 g, preparada para completar o mix de frios e laticínios do varejo.'}
+];
